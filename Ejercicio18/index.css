@@ -1,0 +1,12 @@
+.inputnombre{
+    background: white;
+}
+.inputnombre:focus{
+    background: yellow;
+}
+.vocal{
+    color: red;
+}
+.consonante{
+    color: blue;
+}
